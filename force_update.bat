@@ -1,0 +1,2 @@
+wuauclt /detectnow
+wuauclt /updatenow
